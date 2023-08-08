@@ -1,6 +1,6 @@
 # SMART HOME
 
-This 'Smart Home' application is used to monitor and control various devices of your house just with a click on your mobile phone!
+This 'Smart Home' design is used to monitor and control various devices of your house just with a click on your mobile phone!
 
 
 
