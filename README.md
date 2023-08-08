@@ -1,16 +1,11 @@
 # SMART HOME
 
-A new Flutter project.
+This 'Smart Home' application is used to monitor and control various devices of your house just with a click on your mobile phone!
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+![Screenshot (960)](https://github.com/faru529/Smart_Home/assets/98169686/3e3ddfd7-782c-4f01-89bd-7d958c283b8e)
